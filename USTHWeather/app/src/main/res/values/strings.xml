@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">USTH Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="Mon">Partly Cloudy</string>
+    <string name="Tue">Showers</string>
+    <string name="Wed">Rain</string>
+    <string name="Thu">Scattered Showers</string>
+    <string name="Fri">Mostly Cloudy</string>
+    <string name="Sat">Partly Cloudy</string>
+    <string name="Sun">Thunderstorms</string>
+    <string name="_1_3" translatable="false">1/3</string>
+    <string name="mon" translatable="false">Mon</string>
+    <string name="partly_cloudy_n24c_31c" translatable="false">Partly Cloudy\n24C - 31C</string>
+    <string name="stop" translatable="false">STOP</string>
+    <string name="tyler_a_boy_is_a_gun" translatable="false">Tyler - A Boy Is A Gun</string>
+    <string name="pause" translatable="false">PAUSE</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="play" translatable="false">PLAY</string>
+    <string name="paris" translatable="false">Paris</string>
+    <string name="refresh" translatable="false">Refresh</string>
+    <string name="settings" translatable="false">Settings</string>
+    <string name="well_it_s_actually_an_activity" translatable="false">Well it\'s actually an activity</string>
+</resources>
